@@ -18,11 +18,11 @@ DAU, WAU, MAU, ARPU, ARPPU와 같은 핵심 모바일 서비스 지표를 SQL을
 |revenue|수익|
 
 ## ⚡ 산출 지표
-1. DAU
-2. WAU
-3. MAU
-4. ARPU
-5. ARPPU
+1. DAU (Daily Active User)
+2. WAU (Weekly Active User)
+3. MAU (Monthly Active User)
+4. ARPU (Average Revenue Per User)
+5. ARPPU (Average Revenue Per Paying User)
 
 ## ⚡ Requirements
 * Workbench 8.0
