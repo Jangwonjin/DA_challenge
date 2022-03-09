@@ -1,4 +1,4 @@
-# UK commerce data analysis
+# UK commerce 데이터 분석
 UK commerce 데이터를 활용하여 e-commerce 서비스 내에서 산출 가능한 다양한 지표에 대해 이해하고 시각화를 통해 인사이트를 도출해내는 것을 목표로 합니다.
 
 ## ⚡ Dataset  
